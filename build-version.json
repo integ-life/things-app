@@ -1,1 +1,1 @@
-{"schema": "integ.life/build-version/v1", "repository": "integ-life/things", "service": "things.integ.life", "version": "git-f124c79c8d7e", "commit": "f124c79c8d7ee020341e756367b81e2360c78298", "builtAt": "2026-10-11T06:15:20.634247+00:00", "dirty": false, "uiVersion": "0.1.0"}
+{"schema": "integ.life/build-version/v1", "repository": "integ-life/things", "service": "things.integ.life", "version": "git-4b79df56a331", "commit": "4b79df56a331d68e560f9778eded2e2f87338265", "builtAt": "2026-10-11T06:48:53.856202+00:00", "dirty": false, "uiVersion": "0.2.0"}
